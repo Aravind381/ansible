@@ -4,4 +4,4 @@
   tasks:
   - name: print variables form args
     ansible.builtin.debug:
-      msg: "Hi {{ name }}, Good Day"
+      msg: "Hi {{ NAME }}, Good Day"
