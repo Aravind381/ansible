@@ -1,4 +1,4 @@
-- nmae: variable prefrence
+- name: variable prefrence
   hosts: local
   connection: local
   vars:
