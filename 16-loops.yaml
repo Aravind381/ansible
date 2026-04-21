@@ -2,7 +2,7 @@
   hosts: local
   connection: local
   tasks:
-  - nmae: print name
+  - name: print name
     ansible.builtin.debug:
       msg: "Hello {{ item }}" #item is reseved key word
     loop:
