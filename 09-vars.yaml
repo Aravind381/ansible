@@ -1,5 +1,5 @@
 - name: variables from tags
-  host: local
+  hosts: local
   connection: local
   tasks:
   - name: print variables form args
