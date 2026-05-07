@@ -1,0 +1,24 @@
+- name: "Aravin Sivalasetty"
+  dob: 0'199-9-9"
+  mobile: 12346789
+  address:
+  - flatnumber: 104
+    street: "nagar"
+    city: hyd
+
+  - flatnumber: 104
+    street: "nagar"
+    city: hyd  
+
+- name: "Aravin Sivalasetty"
+  dob: 0'199-9-9"
+  mobile: 12346789
+  address:
+  - flatnumber: 104
+    street: "nagar"
+    city: hyd
+
+  - flatnumber: 104
+    street: "nagar"
+    city: hyd  
+    

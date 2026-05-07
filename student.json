@@ -1,0 +1,10 @@
+{
+    "firstName": "Sivakumar Reddy",
+    "dob": "1999-1-1",
+    "addresses": [
+        {
+            "type":"perm",
+            "flatname": 104
+        }
+    ]
+}
